@@ -13,7 +13,7 @@ Ph.D. student in Transportation @ Umass Amherst<br>Background in CS & Electronic
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elaheyahyapour&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](“Simplicity is the soul of efficiency.” – Austin Freeman)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
