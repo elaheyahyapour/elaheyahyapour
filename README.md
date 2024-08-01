@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ph.D. student @ Umass Amherst<br>Background in CS & Electronics engineering<br>#computer_vision, #deep_learning, #3d_point_cloud
+Ph.D. candidate @ Umass Amherst<br>Background in CS & Electronics engineering<br>#computer_vision, #deep_learning, #3d_point_cloud
 
 
 ## 🌐 Socials:
