@@ -10,7 +10,7 @@ Ph.D. candidate @ Umass Amherst<br>Background in CS & Electronics engineering<br
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elaheyahyapour&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elaheyahyapour&theme=radical&hide_border=false)<br/>
-%%![](https://github-readme-stats.vercel.app/api/top-langs/?username=elaheyahyapour&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elaheyahyapour&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
